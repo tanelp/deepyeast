@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 # DeepYeast
 
 This repository contains re-implemented code for the paper [Accurate classification of protein subcellular localization from high throughput microscopy images using deep learning](http://www.g3journal.org/content/7/5/1385), and additional experiments with new model architectures and optimization tricks.
@@ -52,7 +48,7 @@ x_test, y_test = load_transfer_data('test')
 
 | Model | Top-1 train accuracy | Top-1 val accuracy | Top-1 test accuracy| Link | MD5 Checksum |
 | --- | --- |--- | --- | --- | --- |
-| DeepYeast | 0.96 |0.90 | 0.89 |[Download]()|`c42d8788ba006f9c82725fffe3b096b6` |
+| DeepYeast | 0.96 |0.90 | 0.89 |[Download](https://github.com/tanelp/deepyeast/releases/download/v0.1/deepyeast-weights-22-0.902.hdf5)|`c42d8788ba006f9c82725fffe3b096b6` |
 | ResNet | 0.99 |0.89 | * | - | - |
 | MobileNet | 0.99 |0.86 | * | - | - |
 | DenseNet | 0.95 |0.87 | * | - | - |
