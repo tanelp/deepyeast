@@ -1,0 +1,5 @@
+label;label_idx
+actin;0
+bud neck;1
+lipid particle;2
+microtubule;3

@@ -1,0 +1,13 @@
+label;label_idx
+cell periphery;0
+cytoplasm;1
+endosome;2
+er;3
+golgi;4
+mitochondrion;5
+nuclear periphery;6
+nucleolus;7
+nucleus;8
+peroxisome;9
+spindle pole;10
+vacuole;11
